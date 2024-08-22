@@ -1,5 +1,5 @@
 # ontologies
-##References to available ontologies  
+## References to available ontologies  
 W3.org list - https://www.w3.org/wiki/Lists_of_ontologies  
 News and media - https://iptc.org/thirdparty/snap-ontology/  
 BioPortal - A comprehensive repository of biomedical ontologies. - https://bioportal.bioontology.org/  
