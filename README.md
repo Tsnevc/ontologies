@@ -7,3 +7,4 @@ KBS/Ontology Projects Worldwide - A List of 300+ ontologies and related resource
 Namespace lookup for RDF developers - [prefix.cc](https://prefix.cc/)  
 DBpedia Archivo - Ontology archive automatically indexing OWL ontologies on the web. - https://archivo.dbpedia.org/list  
 Suggested Upper Merged Ontology (SUMO) - https://www.ontologyportal.org/  
+https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/README.md
