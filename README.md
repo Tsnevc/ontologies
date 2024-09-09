@@ -9,3 +9,4 @@ DBpedia Archivo - Ontology archive automatically indexing OWL ontologies on the 
 Suggested Upper Merged Ontology (SUMO) - https://www.ontologyportal.org/  
 Common Core Ontologies repo
 https://github.com/CommonCoreOntology/CommonCoreOntologies/blob/develop/README.md
+Schema.org - https://schema.org/ -  a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.
